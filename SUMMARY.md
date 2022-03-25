@@ -6,8 +6,8 @@
 
 ## WarriorsLib Functions
 
-* [WarriorsLib.SelectWarriors](warriorslib-functions/warriorslib.selectwarriors.md)
-* [WarriorsLib.Send](warriorslib-functions/warriorslib.send.md)
+* [WarriorLib.SelectWarriors](warriorslib-functions/warriorlib.selectwarriors.md)
+* [WarriorLib.Send](warriorslib-functions/warriorlib.send.md)
 
 ## WarriorsLib Enums
 

@@ -1,6 +1,6 @@
-# WarriorsLib.Send
+# WarriorLib.Send
 
-## `WarriorsLib.Send(group, x, y, movementtype)`
+## `WarriorLib.Send(group, x, y, movementtype)`
 
 Sends a set of entities to the coordinate. The behavior in which they walk towards this point is determined by [movementtype](../warriorslib-enums/movementtype.md),
 
