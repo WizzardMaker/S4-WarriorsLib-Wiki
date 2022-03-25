@@ -3,7 +3,7 @@
 ## Tutorials
 
 * [Installation](README.md)
-* [Check if plugin is loaded](tutorials/check-if-plugin-is-loaded.md)
+* [Is the plugin loaded?](tutorials/is-the-plugin-loaded.md)
 
 ## WarriorsLib Functions
 
