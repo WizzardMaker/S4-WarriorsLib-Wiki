@@ -3,6 +3,7 @@
 ## Tutorials
 
 * [Installation](README.md)
+* [Ist das Plugin geladen?](tutorials/ist-das-plugin-geladen.md)
 
 ## WarriorsLib Functions
 
