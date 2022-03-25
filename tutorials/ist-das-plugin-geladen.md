@@ -4,10 +4,10 @@ Beispiel um zu überprüfen innerhalb der new\_game() Funktion ob das WarriorLib
 
 ```lua
 function new_game()
-	if WarriorLib then
-		dbg.stm("WarriorLib has been found")
+	if WarriorsLib then
+		dbg.stm("WarriorsLib has been found")
 	else
-		dbg.stm("WarriorLib is not installed")
+		dbg.stm("WarriorsLib is not installed")
 	end
 end
 ```
