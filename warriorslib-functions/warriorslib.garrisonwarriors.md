@@ -9,5 +9,5 @@ Besetzen eines Gebäudes. Dadurch kann ein Militärgebäude in der Nähe befindl
 none
 
 ```lua
-coming soon
+WarriorsLib.GarrisonWarriors(Buildings.GetFirstBuilding(1, Buildings.GUARDTOWERSMALL),1)
 ```

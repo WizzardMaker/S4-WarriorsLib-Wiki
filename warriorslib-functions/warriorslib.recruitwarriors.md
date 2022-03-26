@@ -20,5 +20,5 @@ Die Anzahl der Einheiten, die Sie für die Rekrutierung in die Warteschlange ste
 none
 
 ```lua
-coming soon
+WarriorsLib.RecruitWarriors(Buildings.GetFirstBuilding(1, Buildings.BARRACKS), Settlers.BOWMAN_03, 5, 1)
 ```

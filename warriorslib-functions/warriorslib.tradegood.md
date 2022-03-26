@@ -9,5 +9,8 @@ Gibt an, welche Waren und wie viele ein Markt oder Hafen transportieren soll. Ve
 none
 
 ```lua
-coming soon
+b1 = Buildings.GetFirstBuilding(1, Buildings.MARKETPLACE)
+b2 = Buildings.GetFirstBuilding(3, Buildings.MARKETPLACE)
+WarriorsLib.SetTradingRoute(b2, b1, 3)
+WarriorsLib.TradeGood(b2, Goods.GOLDBAR, 100, 3)
 ```

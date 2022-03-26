@@ -17,5 +17,5 @@ Bei TRUE wird ein Bogenschütze ausgeworfen. Andernfalls wird ein Schwertkämpfe
 none
 
 ```lua
-coming soon
+WarriorsLib.UnGarrisonWarriors(Buildings.GetFirstBuilding(1, Buildings.GUARDTOWERSMALL),-1,1,1)
 ```

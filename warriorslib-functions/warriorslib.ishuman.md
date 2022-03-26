@@ -9,5 +9,5 @@ Gibt an ob der Spieler von einem Menschen gesteuert wird
 boolean (0 or 1)
 
 ```lua
-coming soon
+dbg.stm(WarriorsLib.getPlayerName(1)..", you are ".. (WarriorsLib.isHuman(1) == 1 and "a Human" or "an AI"))
 ```

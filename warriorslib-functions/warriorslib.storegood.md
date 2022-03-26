@@ -13,5 +13,6 @@ Wenn TRUE, beginnt das Gebäude, Waren des angegebenen Typs zu lagern. Wenn FALS
 none
 
 ```lua
-coming soon
+Buildings.AddBuilding(118, 58, 3, Buildings.STORAGEAREA)
+WarriorsLib.StoreGood (Buildings.GetFirstBuilding(3, Buildings.STORAGEAREA), Goods.GOLDBAR, 1, 3, 1)
 ```
