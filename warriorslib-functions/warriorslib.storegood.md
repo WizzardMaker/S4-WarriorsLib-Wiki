@@ -2,7 +2,7 @@
 
 ## `WarriorsLib.StoreGood(buildingID, goodtype, enable, player)`
 
-Specifies what goods a storage shall store.
+Specifies what goods a storagearea store.
 
 `enable`
 
