@@ -9,5 +9,5 @@ Garrison a building. This makes a military building to search nearby units and w
 none
 
 ```lua
-coming soon
+WarriorsLib.GarrisonWarriors(Buildings.GetFirstBuilding(1, Buildings.GUARDTOWERSMALL),1)
 ```

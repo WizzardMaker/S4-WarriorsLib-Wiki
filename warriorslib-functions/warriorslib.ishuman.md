@@ -9,5 +9,5 @@ Indicates whether the player is controlled by a human
 boolean (0 or 1)
 
 ```lua
-coming soon
+dbg.stm(WarriorsLib.getPlayerName(1)..", you are ".. (WarriorsLib.isHuman(1) == 1 and "a Human" or "an AI"))
 ```

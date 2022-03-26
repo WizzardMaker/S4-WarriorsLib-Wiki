@@ -13,5 +13,6 @@ If **TRUE** the building will start to store goods of the specified type. If **F
 none
 
 ```lua
-coming soon
+Buildings.AddBuilding(118, 58, 3, Buildings.STORAGEAREA)
+WarriorsLib.StoreGood (Buildings.GetFirstBuilding(3, Buildings.STORAGEAREA), Goods.GOLDBAR, 1, 3, 1)
 ```

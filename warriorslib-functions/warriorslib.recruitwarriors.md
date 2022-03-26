@@ -20,5 +20,5 @@ The amount of units that you want to queue for recruitment. This value is beside
 none
 
 ```lua
-coming soon
+WarriorsLib.RecruitWarriors(Buildings.GetFirstBuilding(1, Buildings.BARRACKS), Settlers.BOWMAN_03, 5, 1)
 ```

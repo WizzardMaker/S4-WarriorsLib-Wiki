@@ -9,5 +9,6 @@ Set the work area for a building. This is the same event that players can issue 
 none
 
 ```lua
-coming soon
+WarriorsLib.SetBuildingWorkarea(Buildings.GetFirstBuilding(3, Buildings.BARRACKS),70, 33, 3)
+WarriorsLib.RecruitWarriors(Buildings.GetFirstBuilding(3, Buildings.BARRACKS), Settlers.BOWMAN_03, 5, 3)
 ```
