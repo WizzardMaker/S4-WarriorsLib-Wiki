@@ -10,6 +10,7 @@
 * [WarriorsLib.SelectWarriors](warriorslib-functions/warriorslib.selectwarriors.md)
 * [WarriorsLib.Send](warriorslib-functions/warriorslib.send.md)
 * [WarriorsLib.getPlayerName](warriorslib-functions/warriorslib.getplayername.md)
+* [WarriorsLib.isHuman](warriorslib-functions/warriorslib.ishuman.md)
 * [WarriorsLib.RecruitWarriors](warriorslib-functions/warriorslib.recruitwarriors.md)
 * [WarriorsLib.GarrisonWarriors](warriorslib-functions/warriorslib.garrisonwarriors.md)
 * [WarriorsLib.UnGarrisonWarriors](warriorslib-functions/warriorslib.ungarrisonwarriors.md)
