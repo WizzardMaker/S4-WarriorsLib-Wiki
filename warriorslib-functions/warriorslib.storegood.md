@@ -14,5 +14,5 @@ none
 
 ```lua
 Buildings.AddBuilding(118, 58, 3, Buildings.STORAGEAREA)
-WarriorsLib.StoreGood (Buildings.GetFirstBuilding(3, Buildings.STORAGEAREA), Goods.GOLDBAR, 1, 3, 1)
+WarriorsLib.StoreGood (Buildings.GetFirstBuilding(3, Buildings.STORAGEAREA), Goods.GOLDBAR, 1, 3)
 ```

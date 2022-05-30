@@ -10,5 +10,4 @@ none
 
 ```lua
 WarriorsLib.SetBuildingWorkarea(Buildings.GetFirstBuilding(3, Buildings.BARRACKS),70, 33, 3)
-WarriorsLib.RecruitWarriors(Buildings.GetFirstBuilding(3, Buildings.BARRACKS), Settlers.BOWMAN_03, 5, 3)
 ```

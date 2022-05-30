@@ -4,6 +4,8 @@
 
 Sende alle Einheiten zu den Koordinaten. **group** ist hierbei die Referenz deiner ausgewählten Einheiten. Die Art des Verhaltens der Einheiten wird anhand von [movementtype](../warriorslib-enums/movementtype.md) festgelegt.&#x20;
 
+**Hinweis:** Wenn ihr dies bei einer aktiven KI mit ihren Soldaten macht, wird die KI innerhalb weniger Ticks euren Befehl wieder aufheben und einen neuen den Soldaten erteilen. Macht dies daher nur auf künstlich gespawnte Einheiten, welche nicht von der KI gesteuert werden - oder schalten die KI explizit aus!
+
 #### Rückgabewert
 
 none

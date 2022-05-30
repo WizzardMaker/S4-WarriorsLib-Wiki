@@ -2,9 +2,10 @@
 
 ## `WarriorsLib.RecruitWarriors(`buildingid, warriortype, amount, party`)`
 
-Lassen Sie ein Gebäude beginnen oder stoppen Sie die Rekrutierung von Siedlern. ``&#x20;
+Geben sie sie dem angegeben Gebäude (meistens eine Kaserne) den Befehl die Rekrutierung von angegebenem Einheitentyp zu starten.&#x20;
 
-Die Anzahl der Einheiten, die Sie für die Rekrutierung in die Warteschlange stellen möchten. Dieser Wert ist bis auf einige Ausnahmen additiv. Sie können negative Werte übergeben, um die Anzahl der Einheiten in der Warteschlange zu reduzieren. Das Spiel verwendet nur die folgenden Werte.
+\
+`amount` ist dabei die Anzahl der Einheiten, die Sie für die Rekrutierung in die Warteschlange stellen möchten. Dieser Wert ist bis auf einige Ausnahmen additiv. Sie können negative Werte übergeben, um die Anzahl der Einheiten in der Warteschlange zu reduzieren. Das Spiel verwendet nur die folgenden Werte.
 
 | Value | Description                                                                                          |
 | ----- | ---------------------------------------------------------------------------------------------------- |

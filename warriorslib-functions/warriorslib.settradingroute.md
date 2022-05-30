@@ -4,6 +4,8 @@
 
 Legen Sie den Zielmarkt/-hafen eines Marktes/Hafens fest, um eine Handelsroute einzurichten.
 
+`player` ist dabei der Spieler des ursprünglichen Marktes/Hafens
+
 #### Rückgabewert
 
 none
