@@ -18,6 +18,8 @@
 * [WarriorsLib.TradeGood](warriorslib-functions/warriorslib.tradegood.md)
 * [WarriorsLib.StoreGood](warriorslib-functions/warriorslib.storegood.md)
 * [WarriorsLib.SetBuildingWorkarea](warriorslib-functions/warriorslib.setbuildingworkarea.md)
+* [WarriorsLib.GetResourceCountInArea](warriorslib-functions/warriorslib.getresourcecountinarea.md)
+* [WarriorsLib.GetResourceCountAt](warriorslib-functions/warriorslib.getresourcecountat.md)
 
 ## WarriorsLib Enums
 
