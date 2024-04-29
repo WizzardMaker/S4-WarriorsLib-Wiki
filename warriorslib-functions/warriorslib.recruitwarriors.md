@@ -4,7 +4,8 @@
 
 Geben sie sie dem angegeben Gebäude (meistens eine Kaserne) den Befehl die Rekrutierung von angegebenem Einheitentyp zu starten.&#x20;
 
-\
+
+
 `amount` ist dabei die Anzahl der Einheiten, die Sie für die Rekrutierung in die Warteschlange stellen möchten. Dieser Wert ist bis auf einige Ausnahmen additiv. Sie können negative Werte übergeben, um die Anzahl der Einheiten in der Warteschlange zu reduzieren. Das Spiel verwendet nur die folgenden Werte.
 
 | Value | Description                                                                                          |
