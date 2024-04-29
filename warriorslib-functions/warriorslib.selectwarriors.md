@@ -2,7 +2,7 @@
 
 ## `WarriorsLib.SelectWarriors(x, y, r, party, settlertype)`
 
-Wähle alle Einheiten eines Typs (z.B. Settlers.SWORDSMAN\_01) innerhalb des angegebenen Radius von der angegebenen Spielerpartei
+Wähle alle Einheiten eines Typs (z.B. Settlers.SWORDSMAN_01) innerhalb des angegebenen Radius von der angegebenen Spielerpartei
 
 #### Rückgabewert
 

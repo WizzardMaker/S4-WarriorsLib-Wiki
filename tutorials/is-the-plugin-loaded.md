@@ -1,6 +1,6 @@
 # Ist das Plugin geladen?
 
-Beispiel um zu überprüfen innerhalb der new\_game() Funktion ob das WarriorLib Plugin vom Spieler installiert ist
+Beispiel um zu überprüfen innerhalb der new_game() Funktion ob das WarriorLib Plugin vom Spieler installiert ist
 
 ```lua
 function new_game()
@@ -30,7 +30,7 @@ function new_game()
 end
 ```
 
-`WarriorsLib.VERSION` - Gibt die aktuelle vollständige Version an (Beispiel: 1.4.0)\
-`WarriorsLib.MAJOR_VERSION` - Gibt die aktuelle Hauptversion an (Beispiel: 1)\
-`WarriorsLib.MINOR_VERSION` - Gibt die aktuelle Nebenversion an (Beispiel: 4)\
+`WarriorsLib.VERSION` - Gibt die aktuelle vollständige Version an (Beispiel: 1.4.0)
+`WarriorsLib.MAJOR_VERSION` - Gibt die aktuelle Hauptversion an (Beispiel: 1)
+`WarriorsLib.MINOR_VERSION` - Gibt die aktuelle Nebenversion an (Beispiel: 4)
 `WarriorsLib.AUTHOR` - Gibt die aktuellen Author(en) an

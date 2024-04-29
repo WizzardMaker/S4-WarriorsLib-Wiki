@@ -1,12 +1,12 @@
-# Resourcetype
+# ResourceType
 
 |                                   |   |
 | --------------------------------- | - |
 | WarriorsLib.Resources.FISH        |   |
-| WarriorsLib.Resources.COAL\_ORE   |   |
-| WarriorsLib.Resources.IRON\_ORE   |   |
-| WarriorsLib.Resources.GOLD\_ORE   |   |
-| WarriorsLib.Resources.SULFUR\_ORE |   |
-| WarriorsLib.Resources.STONE\_ORE  |   |
+| WarriorsLib.Resources.COAL_ORE   |   |
+| WarriorsLib.Resources.IRON_ORE   |   |
+| WarriorsLib.Resources.GOLD_ORE   |   |
+| WarriorsLib.Resources.SULFUR_ORE |   |
+| WarriorsLib.Resources.STONE_ORE  |   |
 | WarriorsLib.Resources.STONE       |   |
 | WarriorsLib.Resources.WOOD        |   |
