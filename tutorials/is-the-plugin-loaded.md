@@ -1,6 +1,6 @@
 # Is the plugin loaded?
 
-Example to check within new\_game() function of your mapscript if WarriorsLib is installed by the player
+Example to check within new_game() function of your mapscript if WarriorsLib is installed by the player
 
 ```lua
 function new_game()

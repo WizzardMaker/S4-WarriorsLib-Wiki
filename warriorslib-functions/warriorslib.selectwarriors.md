@@ -2,7 +2,7 @@
 
 ## `WarriorsLib.SelectWarriors(x, y, r, party, settlertype)`
 
-Selects all entities of type (e.g. Settlers.SWORDSMAN\_01) of a around a circle with the center of / and radius
+Selects all entities of type (e.g. Settlers.SWORDSMAN_01) of a around a circle with the center of / and radius
 
 #### return value
 
